@@ -1,0 +1,1 @@
+This is a simple chatting grpc communcation server and client using go.
